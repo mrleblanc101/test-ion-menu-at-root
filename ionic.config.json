@@ -1,0 +1,8 @@
+{
+  "name": "test-ion-menu-at-root",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "0839c126"
+}
